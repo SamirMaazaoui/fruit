@@ -1,0 +1,19 @@
+
+
+.background-Style {
+    background-image: url(../images/slot.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: 69% 100%;
+    height: 600px;
+}
+
+.position-image {
+    margin-bottom: 7rem !important;
+}
+
+.bg-color {
+    background-color: darkgoldenrod;
+}
